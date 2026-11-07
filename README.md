@@ -72,3 +72,7 @@ python $S act scroll --pid PID --window-id WID --direction down
 ## License
 
 MIT
+
+## 关注公众号
+
+![公众号二维码](qrcode.jpg)
